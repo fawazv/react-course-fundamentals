@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/course-fundamentals/static/css/main.49cebdd5.css",
-    "main.js": "/course-fundamentals/static/js/main.329af5a8.js",
-    "static/media/book-1.jpg": "/course-fundamentals/static/media/book-1.7a5978c810ef95c2369e.jpg",
-    "static/media/book-2.jpg": "/course-fundamentals/static/media/book-2.23bc8d0e7f9e2e4dc0df.jpg",
-    "static/media/book-3.jpg": "/course-fundamentals/static/media/book-3.2f234758f292caa24302.jpg",
-    "index.html": "/course-fundamentals/index.html",
-    "main.49cebdd5.css.map": "/course-fundamentals/static/css/main.49cebdd5.css.map",
-    "main.329af5a8.js.map": "/course-fundamentals/static/js/main.329af5a8.js.map"
+    "main.css": "/react-course-fundamentals/static/css/main.49cebdd5.css",
+    "main.js": "/react-course-fundamentals/static/js/main.721b4152.js",
+    "static/media/book-1.jpg": "/react-course-fundamentals/static/media/book-1.7a5978c810ef95c2369e.jpg",
+    "static/media/book-2.jpg": "/react-course-fundamentals/static/media/book-2.23bc8d0e7f9e2e4dc0df.jpg",
+    "static/media/book-3.jpg": "/react-course-fundamentals/static/media/book-3.2f234758f292caa24302.jpg",
+    "index.html": "/react-course-fundamentals/index.html",
+    "main.49cebdd5.css.map": "/react-course-fundamentals/static/css/main.49cebdd5.css.map",
+    "main.721b4152.js.map": "/react-course-fundamentals/static/js/main.721b4152.js.map"
   },
   "entrypoints": [
     "static/css/main.49cebdd5.css",
-    "static/js/main.329af5a8.js"
+    "static/js/main.721b4152.js"
   ]
 }
